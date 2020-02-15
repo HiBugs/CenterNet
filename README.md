@@ -44,4 +44,4 @@
 ## 训练和测试
 
 * 详见文档 [Face](readme/Face.md)
-* 详见文档 [SeaShips](readme/SeaShips.md)
+* 详见文档 [SeaShips](readme/Seaships.md)
